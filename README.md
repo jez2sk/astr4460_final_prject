@@ -13,11 +13,16 @@ To run the files
 
 Install the required Python packages:
 
-`import numpy as np
-import matplotlib.pyplot as plt
-import athena_mc as athenamc
-from scipy.optimize import curve_fit
-from scipy.integrate import quad
-import final_proj as fitting`
+`import numpy as np`
+
+`import matplotlib.pyplot as plt`
+
+`import athena_mc as athenamc`
+
+`from scipy.optimize import curve_fit`
+
+`from scipy.integrate import quad`
+
+`import final_proj as fitting`
 
 Open the notebook `final_project.ipynb` and run all cells. This will run both of the test runs using the functions in the `final_proj.py` file.
